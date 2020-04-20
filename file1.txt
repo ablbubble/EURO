@@ -1,1 +1,2 @@
 "HELLOWORLD" 
+postavte 100 balov polubomu
